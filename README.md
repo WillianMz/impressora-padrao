@@ -1,4 +1,4 @@
-Programa para criar arquivos de configuração para sistemas com informações criptografadas.
+Programa para listar impressoras instaladas no Windows
 
 <img src="https://github.com/WillianMz/impressora-padrao/blob/main/Print.png">
 
